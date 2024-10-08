@@ -9,7 +9,7 @@ The objective of this tutorial is to introduce you to the core programming conce
 
 We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-![img.png](images/img2.png)
+
 
 ## What you will learn
 
@@ -28,4 +28,4 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 ![img.png](images/img.png)
 
->Author: Đặng Bá Chí
+>Author: Đặng Quốc Việt
